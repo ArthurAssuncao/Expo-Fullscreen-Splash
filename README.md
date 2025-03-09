@@ -1,4 +1,4 @@
-# expo-fullscreen-splash
+# Expo Fullscreen Splash Screen
 
 A React Native component to create fullscreen splash screens with smooth animations and precise control for Expo applications.
 

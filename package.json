@@ -1,7 +1,7 @@
 {
   "name": "expo-fullscreen-splash",
   "version": "0.1.0",
-  "description": "Customizable animated fullscreen splash screen for Expo and React Native apps",
+  "description": "A React Native component to create fullscreen splash screens with smooth animations and precise control for Expo applications.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
