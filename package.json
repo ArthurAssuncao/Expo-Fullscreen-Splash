@@ -1,0 +1,64 @@
+{
+  "name": "expo-fullscreen-splash",
+  "version": "0.1.0",
+  "description": "Customizable animated fullscreen splash screen for Expo and React Native apps",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "splash-screen",
+    "animation",
+    "reanimated",
+    "splash",
+    "typescript"
+  ],
+  "author": "Arthur Assuncao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurassuncao/expo-fullscreen-splash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arthurassuncao/expo-fullscreen-splash/issues"
+  },
+  "homepage": "https://github.com/arthurassuncao/expo-fullscreen-splash#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.26.0",
+    "@testing-library/jest-native": "^5.4.3",
+    "@testing-library/react-native": "^13.2.0",
+    "@types/jest": "^29.5.14",
+    "@types/react": "^18.0.0",
+    "@types/react-native": "^0.70.0",
+    "expo": "^52.0.37",
+    "expo-navigation-bar": "~4.0.8",
+    "jest": "^29.7.0",
+    "jest-expo": "^52.0.5",
+    "react": "18.3.1",
+    "react-native": "0.77.1",
+    "react-native-reanimated": "3.17.1",
+    "react-native-safe-area-context": "4.9.0",
+    "react-test-renderer": "^18.2.0",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "expo-navigation-bar": ">=3.0.0",
+    "react": "*",
+    "react-native": "*",
+    "react-native-reanimated": ">=2.0.0",
+    "react-native-safe-area-context": ">=3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
