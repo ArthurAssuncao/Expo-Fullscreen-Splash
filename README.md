@@ -3,7 +3,7 @@
 A React Native component to create fullscreen splash screens with smooth animations and precise control for Expo applications.
 
 [![npm version](https://img.shields.io/npm/v/expo-fullscreen-splash.svg)](https://www.npmjs.com/package/expo-fullscreen-splash)
-[![license](https://img.shields.io/npm/l/expo-fullscreen-splash.svg)](https://github.com/yourusername/expo-fullscreen-splash/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/expo-fullscreen-splash.svg)](https://github.com/arthurassuncao/expo-fullscreen-splash/blob/main/LICENSE)
 
 ## Why this package?
 
